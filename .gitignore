@@ -1,0 +1,4 @@
+#.gitignore文件本身需要上传到github上，用于告诉git哪些文件不需要上传到github上
+#需要在项目初始化时就创建好
+.env
+node_modules/       #/说明这是一个文件夹
